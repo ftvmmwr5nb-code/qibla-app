@@ -1,2 +1,1 @@
-# qibla-app
-Qibla application
+
